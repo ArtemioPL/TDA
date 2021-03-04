@@ -8,7 +8,7 @@ class Micontrolador extends BaseController
 	public function index()
 	{
 		
-		
+		//holaa
 		echo view('superior');
 		echo view('contenido');
 		echo view('inferior');
