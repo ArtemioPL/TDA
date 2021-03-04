@@ -1,0 +1,51 @@
+.navbar{
+    background-color: white;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .05);
+    min-height:130px;
+  
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color:white;
+    background-color: rgb(35, 182, 35);
+    border-radius: 10px;
+}
+.logo-brand{
+    min-width: 80px;
+    max-width: 100px;
+}
+#hero{
+    background-image: url('../img/portada.jpg');
+    background-size: cover;
+    padding-top: 90px;
+    min-height: 1000px;
+    color: white;
+}
+#footer{
+    padding: 30px 0;
+    text-align: center;
+    color: white;
+
+}
+a ion-icon{
+    font-size: 35px;
+    color: white;
+}
+section{
+    padding: 120px 0;
+}
+.bg-dark{ background-color: rgb(15, 14, 14) !important;}
+#footer p{
+    color:#ffffff;
+}
+a ion-icon:hover{
+    color: blue;
+}
+.card{
+    background-color: rgb(239, 243, 239);
+}
+.ico{
+    font-size: 17px;
+}
