@@ -19,4 +19,8 @@ $('.save').click(function(){
   location.reload(true);
   
 })
+$('.lista').DataTable();
+$('.fj-date').datepicker({
+  format: "yyyy/mm/dd"
+});
 })

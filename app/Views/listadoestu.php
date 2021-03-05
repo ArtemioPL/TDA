@@ -3,7 +3,7 @@
 <a href="<?php echo base_url() ?>/formestu" class='btn btn-primary'><ion-icon class="ico" name="person-add-outline"></ion-icon> Crear registro</a>
 </div>
 <h2>Estudiantes</h2>
-<table class="table table-hover table-bordered">
+<table class="table table-hover table-bordered lista">
   <thead class="thead-dark">
     <tr>
       <th scope="col">#</th>
